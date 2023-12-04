@@ -1,7 +1,7 @@
  # 🌊Victor Solorza
 
 ## Sobre mi 🎲
-- Soy oceanólogo por parte de la Facultad de Ciencias Marinas en la Universidad Autónoma de Baja California. 🎓
+- Soy oceanólogo por parte de la Facultad de Ciencias Marinas de la Universidad Autónoma de Baja California. 🎓
 - Actualmente estoy realizando una maestría en oceanografía física en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). 📑
 - Estoy interesado en la modelación numérica en la costa y sus procesos costeros asociados. 🖥️
 - Dentro de mis hobbies están los videojuegos y los juegos de mesa. 🎮
